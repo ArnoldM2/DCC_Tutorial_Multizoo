@@ -16,17 +16,21 @@ We share with you:
 - An overview tutorial on how to pre train and finetune a model considering multimodal datasets
 
 # Getting Started
-## Datasets
+[//]: <> (## Datasets)
 ### ComicMischief and HateSpeech datasets
-We share with you ComicMischief and HateSpeech datasets. 
-- ComicMischief is a multimodal (audio, visual, and audio) video dataset aimed at comic mischief Binary and Multilabel (gory, slapstick, mature, sarcasm) tasks. 
-- HateSpeech is a multimodal (audio, visual, and audio) video dataset aimed at hate speech Binary task.  
+To access to ComicMischoef and HateSpeech datasets please go to the original repositories:
+- [Comic Mischief](https://github.com/RiTUAL-UH/Comic-Mischief-Prediction)
+- [Hate Speech](https://github.com/iltocl/dcc-hsdvmi-video-dataset)
+  
+[//]: <> (We share with you ComicMischief and HateSpeech datasets.)
+[//]: # "ComicMischief is a multimodal (audio, visual, and audio) video dataset aimed at comic mischief Binary and Multilabel (gory, slapstick, mature, sarcasm) tasks.
+HateSpeech is a multimodal (audio, visual, and audio) video dataset aimed at hate speech Binary task."
 
-To access them go to this [drive folder](https://drive.google.com/drive/folders/1RrPJuVRm8kxqPey37YiuRxztmP-zEyxP?usp=sharing) and create a shortcut on your drive (see figure below).
+[//]: # "To access them go to this [drive folder](https://drive.google.com/drive/folders/1RrPJuVRm8kxqPey37YiuRxztmP-zEyxP?usp=sharing) and create a shortcut on your drive (see figure below)."
 
-![Alt text](img.png)
+[//]: # "![Alt text](img.png)"
 
-Once you have completed the previous step, you can run the tutorial: [Example of MultiBench usage](https://colab.research.google.com/github/iltocl/dcc-tutorial-multizoo-multibench/blob/main/Examples/Multibench_Example_Usage_Colab.ipynb)
+[//]: # "Once you have completed the previous step, you can run the tutorial: [Example of MultiBench usage](https://colab.research.google.com/github/iltocl/dcc-tutorial-multizoo-multibench/blob/main/Examples/Multibench_Example_Usage_Colab.ipynb))"
 
 ### Multibench datasets
 Multibench provides a compilation of multimodal datasets. In our case, Affective Computing datasets may be considered because of the availability of audio, visual, and text modalities. These Affective Computing datasets include:
