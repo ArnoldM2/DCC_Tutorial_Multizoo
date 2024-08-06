@@ -18,7 +18,7 @@ We share with you:
 # Getting Started
 [//]: <> (## Datasets)
 ### ComicMischief and HateSpeech datasets
-To access to ComicMischoef and HateSpeech datasets please go to the original repositories:
+To access to ComicMischoef and HateSpeech datasets plese refer to the original repositories:
 - [Comic Mischief](https://github.com/RiTUAL-UH/Comic-Mischief-Prediction)
 - [Hate Speech](https://github.com/iltocl/dcc-hsdvmi-video-dataset)
   
